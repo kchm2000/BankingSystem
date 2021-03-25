@@ -1,0 +1,4 @@
+{"_nric": "S8738034C", "_name": "Choo Hongming Kent", "_pin": "4321", "_balance": 684000.0}
+{"_nric": "S5684256D", "_name": "Billy Tan", "_pin": "4321", "_balance": 50000.0}
+{"_nric": "S7895624D", "_name": "Tanya Lim", "_pin": "4321", "_balance": 800000.0}
+{"_nric": "S8525645D", "_name": "Keith Wong", "_pin": "4321", "_balance": 400000.0}
